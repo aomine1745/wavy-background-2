@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+div {
+	width: 100%;
+	min-height: 1000px;
+}
+.waves {
+	position: relative;
+	background-image: linear-gradient(90deg, #f0027f, #75489f);
+}
+.wave {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
